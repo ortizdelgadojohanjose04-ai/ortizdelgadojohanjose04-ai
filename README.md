@@ -31,6 +31,11 @@ Extracts business emails from company domains automatically. Filters out blocked
 `Python` `B2B` `Lead Generation`
 [View on Apify Store](https://apify.com/johandev_04/b2b-email-extractor)
 
+**Email Validator API**
+Validate email addresses with syntax checks, MX records, disposable domain detection, and trust scoring. Ideal for cleaning B2B databases.
+`Python` `Email Validation` `B2B`
+[View on Apify Store](https://apify.com/johandev_04/email-validator)
+
 ---
 
 ### Technical Stack
