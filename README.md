@@ -36,6 +36,11 @@ Validate email addresses with syntax checks, MX records, disposable domain detec
 `Python` `Email Validation` `B2B`
 [View on Apify Store](https://apify.com/johandev_04/email-validator)
 
+**LinkedIn Company Scraper & API**
+Extract company data from LinkedIn using Google Search. Gets industry, company size, followers, and description. 100% reliable, no proxies or cookies required.
+`Python` `LinkedIn` `B2B` `Data Extraction`
+[View on Apify Store](https://apify.com/johandev_04/linkedin-company-scraper)
+
 ---
 
 ### Technical Stack
