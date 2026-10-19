@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Johan Ortiz 👋
 
-<!--
-**ortizdelgadojohanjose04-ai/ortizdelgadojohanjose04-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineer & Fullstack Developer** | Data Extraction & AI-ready Data Pipelines.
 
-Here are some ideas to get you started:
+I'm a backend developer focused on building high-performance web scrapers, APIs, and data extraction tools. I create solutions designed to feed AI models and automate data workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Apify Store Publisher
+I build and maintain production-ready web scrapers on the Apify platform. 
+- [Google Trends Scraper & API](https://apify.com/johandev_04/google-trends-scraper)
+- [YouTube Transcript Scraper & API](https://apify.com/johandev_04/youtube-transcript-scraper)
+
+👉 **[Check out my full Apify Publisher Profile here](https://apify.com/johandev_04)**
+
+## 💻 Tech Stack
+- **Languages:** Python (Main), C#, JavaScript
+- **Data & Backend:** FastAPI, Web Scraping (Apify, Playwright), PostgreSQL
+- **Game Dev:** Godot Engine
