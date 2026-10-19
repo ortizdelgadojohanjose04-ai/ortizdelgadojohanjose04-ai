@@ -26,6 +26,11 @@ B2B data enrichment from company domains. Extracts tech stack, descriptions, and
 `Python` `B2B` `Data Pipeline`
 [View on Apify Store](https://apify.com/johandev_04/company-enricher)
 
+**B2B Email Extractor**
+Extracts business emails from company domains automatically. Filters out blocked sites and detects tech stacks. Ideal for lead generation.
+`Python` `B2B` `Lead Generation`
+[View on Apify Store](https://apify.com/johandev_04/b2b-email-extractor)
+
 ---
 
 ### Technical Stack
