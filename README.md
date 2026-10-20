@@ -8,7 +8,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 
 ---
 
-### Published Software
+### Published Software (9 Actors)
 
 | Actor | Description | Tech |
 | :--- | :--- | :--- |
@@ -17,9 +17,10 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 | **[Email Validator API](https://apify.com/johandev_04/email-validator)** | Validates emails (syntax, MX, disposable). Cleans B2B databases. | `Python` `Email` `B2B` |
 | **[Company Enrichment API](https://apify.com/johandev_04/company-enricher)** | Enriches domains with tech stack, descriptions, and social links. | `Python` `B2B` `Pipeline` |
 | **[Google Trends Scraper](https://apify.com/johandev_04/google-trends-scraper)** | Bypasses 429 limits with proxies and sessions. +99% success rate. | `Python` `Web Scraping` `API` |
-| **[YouTube Transcript Scraper](https://apify.com/johandev_04/youtube-transcript-scraper)** | Extracts YouTube transcripts. Enterprise-grade, zero data loss, anti-ban proxies. | `Python` `NLP` `Data` |
+| **[YouTube Transcript Scraper](https://apify.com/johandev_04/youtube-transcript-scraper)** | Enterprise-grade extraction. Zero data loss, anti-ban proxies, and state persistence. | `Python` `NLP` `Data` |
 | **[E-commerce Price Monitor](https://apify.com/johandev_04/price-monitor)** | Monitors product prices from e-commerce stores. High success rate. | `Python` `E-commerce` `API` |
 | **[AI Content Detector](https://apify.com/johandev_04/ai-content-detector)** | Detects if text is Human or AI-generated. Enterprise-grade statistical analysis. | `Python` `AI` `NLP` |
+| **[URL to Markdown for AI Agents](https://apify.com/johandev_04/url-to-markdown-agent)** | Converts webpages to clean Markdown. Fail-safe errors for AI agents and RAG pipelines. | `Python` `AI` `RAG` |
 
 ---
 
