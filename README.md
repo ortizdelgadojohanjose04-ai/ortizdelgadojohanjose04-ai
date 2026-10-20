@@ -1,9 +1,8 @@
 # Johan Ortiz
-### Systems Engineer & Data Extraction Specialist
 
-I build production-ready software for data extraction, web scraping, and AI pipelines. My focus is on reliability, scalable architecture, and automated monetization. 
+**Systems Engineer & Data Extraction Specialist**
 
-Currently, I design and publish high-performance tools on the Apify Store, helping businesses extract data without getting blocked.
+I build production-ready software for data extraction, web scraping, and AI pipelines. My focus is on reliability, scalable architecture, and automated monetization.
 
 [Apify Publisher Profile](https://apify.com/johandev_04) | [LinkedIn](https://linkedin.com/in/johan-ortiz-260aa0378) | [Portfolio Website](https://ortizdelgadojohanjose04-ai.github.io)
 
@@ -11,39 +10,20 @@ Currently, I design and publish high-performance tools on the Apify Store, helpi
 
 ### Published Software
 
-**Google Trends Scraper & API**
-High-performance extraction bypassing 429 rate limits using residential proxies and session tokens. (+99% success rate)
-`Python` `Web Scraping` `API`
-[View on Apify Store](https://apify.com/johandev_04/google-trends-scraper)
-
-**YouTube Transcript Scraper & API**
-Reliable extraction of YouTube transcripts designed for AI training and NLP analysis.
-`Python` `NLP` `Data Extraction`
-[View on Apify Store](https://apify.com/johandev_04/youtube-transcript-scraper)
-
-**Company Enrichment API**
-B2B data enrichment from company domains. Extracts tech stack, descriptions, and social links for sales pipelines.
-`Python` `B2B` `Data Pipeline`
-[View on Apify Store](https://apify.com/johandev_04/company-enricher)
-
-**B2B Email Extractor**
-Extracts business emails from company domains automatically. Filters out blocked sites and detects tech stacks. Ideal for lead generation.
-`Python` `B2B` `Lead Generation`
-[View on Apify Store](https://apify.com/johandev_04/b2b-email-extractor)
-
-**Email Validator API**
-Validate email addresses with syntax checks, MX records, disposable domain detection, and trust scoring. Ideal for cleaning B2B databases.
-`Python` `Email Validation` `B2B`
-[View on Apify Store](https://apify.com/johandev_04/email-validator)
-
-**LinkedIn Company Scraper & API**
-Extract company data from LinkedIn using Google Search. Gets industry, company size, followers, and description. 100% reliable, no proxies or cookies required.
-`Python` `LinkedIn` `B2B` `Data Extraction`
-[View on Apify Store](https://apify.com/johandev_04/linkedin-company-scraper)
+| Actor | Description | Tech |
+| :--- | :--- | :--- |
+| **[LinkedIn Company Scraper](https://apify.com/johandev_04/linkedin-company-scraper)** | Extracts company data using Google Search. 100% reliable, no cookies. | `Python` `LinkedIn` `B2B` |
+| **[B2B Email Extractor](https://apify.com/johandev_04/b2b-email-extractor)** | Extracts business emails from domains. Filters blocked sites. | `Python` `B2B` `Lead Gen` |
+| **[Email Validator API](https://apify.com/johandev_04/email-validator)** | Validates emails (syntax, MX, disposable). Cleans B2B databases. | `Python` `Email` `B2B` |
+| **[Company Enrichment API](https://apify.com/johandev_04/company-enricher)** | Enriches domains with tech stack, descriptions, and social links. | `Python` `B2B` `Pipeline` |
+| **[Google Trends Scraper](https://apify.com/johandev_04/google-trends-scraper)** | Bypasses 429 limits with proxies and sessions. +99% success rate. | `Python` `Web Scraping` `API` |
+| **[YouTube Transcript Scraper](https://apify.com/johandev_04/youtube-transcript-scraper)** | Extracts YouTube transcripts for AI training and NLP analysis. | `Python` `NLP` `Data` |
+| **[E-commerce Price Monitor](https://apify.com/johandev_04/price-monitor)** | Monitors product prices from e-commerce stores. High success rate. | `Python` `E-commerce` `API` |
 
 ---
 
 ### Technical Stack
+
 - **Languages:** Python, C#, JavaScript
 - **Backend & Data:** FastAPI, PostgreSQL, Apify SDK, Playwright, BeautifulSoup
 - **Game Development:** Godot Engine (OOP, math logic, optimization)
@@ -51,5 +31,6 @@ Extract company data from LinkedIn using Google Search. Gets industry, company s
 ---
 
 ### Contact
+
 - **Email:** ortizdelgadojohanjose04@gmail.com
 - **Portfolio:** [ortizdelgadojohanjose04-ai.github.io](https://ortizdelgadojohanjose04-ai.github.io)
