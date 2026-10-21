@@ -8,7 +8,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 
 ---
 
-### Published Software (9 Actors)
+### Published Software (10 Actors)
 
 | Actor | Description | Tech |
 | :--- | :--- | :--- |
@@ -21,6 +21,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 | **[E-commerce Price Monitor](https://apify.com/johandev_04/price-monitor)** | Monitors product prices from e-commerce stores. High success rate. | `Python` `E-commerce` `API` |
 | **[AI Content Detector](https://apify.com/johandev_04/ai-content-detector)** | Detects if text is Human or AI-generated. Enterprise-grade statistical analysis. | `Python` `AI` `NLP` |
 | **[URL to Markdown for AI Agents](https://apify.com/johandev_04/url-to-markdown-agent)** | Converts webpages to clean Markdown. Fail-safe errors for AI agents and RAG pipelines. | `Python` `AI` `RAG` |
+| **[Smart Data Extractor (No APIs)](https://apify.com/johandev_04/smart-data-extractor)** | Extracts structured data (titles, prices, emails, links) from any website using pure Python. | `Python` `No APIs` `Data` |
 
 ---
 
