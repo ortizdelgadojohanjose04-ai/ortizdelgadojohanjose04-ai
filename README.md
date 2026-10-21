@@ -22,6 +22,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 | **[AI Content Detector](https://apify.com/johandev_04/ai-content-detector)** | Detects if text is Human or AI-generated. Enterprise-grade statistical analysis. | `Python` `AI` `NLP` |
 | **[URL to Markdown for AI Agents](https://apify.com/johandev_04/url-to-markdown-agent)** | Converts webpages to clean Markdown. Fail-safe errors for AI agents and RAG pipelines. | `Python` `AI` `RAG` |
 | **[Smart Data Extractor (No APIs)](https://apify.com/johandev_04/smart-data-extractor)** | Extracts structured data (titles, prices, emails, links) from any website using pure Python. | `Python` `No APIs` `Data` |
+| **[Web Metadata Extractor](https://apify.com/johandev_04/web-metadata-extractor)** | Extracts titles, descriptions, and Open Graph images from any webpage. Fast and no JavaScript required. | `Python` `SEO` `Data` |
 
 ---
 
