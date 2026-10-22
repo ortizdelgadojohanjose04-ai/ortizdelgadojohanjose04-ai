@@ -4,7 +4,7 @@
 
 I build production-ready software for data extraction, web scraping, and AI pipelines. My focus is on reliability, scalable architecture, and automated monetization.
 
-[Apify Publisher Profile](https://apify.com/johandev_04) | [LinkedIn](https://linkedin.com/in/johan-ortiz-260aa0378) | [Portfolio Website](https://ortizdelgadojohanjose04-ai.github.io)
+[Apify Publisher Profile](https://apify.com/johandev_04) | [LinkedIn](https://linkedin.com/in/johan-ortiz-dev) | [Portfolio Website](https://ortizdelgadojohanjose04-ai.github.io)
 
 ---
 
