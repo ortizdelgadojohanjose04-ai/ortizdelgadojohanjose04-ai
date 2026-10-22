@@ -38,5 +38,5 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 ### Contact
 
 - **Email:** [ortizdelgadojohanjose04@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com&su=Job%20Opportunity%20for%20Johan%20Ortiz)
-- **LinkedIn:** [johan-ortiz-260aa0378](https://linkedin.com/in/johan-ortiz-260aa0378)
+- **LinkedIn:** [johan-ortiz-260aa0378](https://linkedin.com/in/johan-ortiz-dev)
 - **Portfolio:** [ortizdelgadojohanjose04-ai.github.io](https://ortizdelgadojohanjose04-ai.github.io)
