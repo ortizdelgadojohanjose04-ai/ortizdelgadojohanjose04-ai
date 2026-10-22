@@ -8,7 +8,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 
 ---
 
-### Published Software (10 Actors)
+### Published Software (11 Actors)
 
 | Actor | Description | Tech |
 | :--- | :--- | :--- |
