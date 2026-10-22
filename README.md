@@ -8,7 +8,7 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 
 ---
 
-### Published Software (11 Actors)
+### Published Software (12 Actors)
 
 | Actor | Description | Tech |
 | :--- | :--- | :--- |
@@ -38,5 +38,5 @@ I build production-ready software for data extraction, web scraping, and AI pipe
 ### Contact
 
 - **Email:** [ortizdelgadojohanjose04@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com&su=Job%20Opportunity%20for%20Johan%20Ortiz)
-- **LinkedIn:** [johan-ortiz-260aa0378](https://linkedin.com/in/johan-ortiz-dev)
+- **LinkedIn:** [johan-ortiz-dev](https://linkedin.com/in/johan-ortiz-dev)
 - **Portfolio:** [ortizdelgadojohanjose04-ai.github.io](https://ortizdelgadojohanjose04-ai.github.io)
