@@ -1,42 +1,52 @@
-# Johan Ortiz
+# 👋 Hi, I'm Johan Ortiz
 
 **Systems Engineer & Data Extraction Specialist**
 
 I build production-ready software for data extraction, web scraping, and AI pipelines. My focus is on reliability, scalable architecture, and automated monetization.
 
-[Apify Publisher Profile](https://apify.com/johandev_04) | [LinkedIn](https://linkedin.com/in/johan-ortiz-dev) | [Portfolio Website](https://ortizdelgadojohanjose04-ai.github.io)
+<p align="left">
+  <a href="https://apify.com/johandev_04" target="_blank"><img src="https://img.shields.io/badge/Apify_Store-00A9E0?style=for-the-badge&logo=apify&logoColor=white" alt="Apify"></a>
+  <a href="https://linkedin.com/in/johan-ortiz-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://ortizdelgadojohanjose04-ai.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### Published Software (12 Actors)
+### 🚀 Featured Software (12 Production-Ready Apify Actors)
 
-| Actor | Description | Tech |
+I have designed and published a catalog of high-performance scrapers and APIs on the Apify platform. They are built to handle enterprise-grade anti-bot systems, proxy rotation, and complex data extraction at scale.
+
+| Actor | Description | Stack |
 | :--- | :--- | :--- |
-| **[LinkedIn Company Scraper](https://apify.com/johandev_04/linkedin-company-scraper)** | Extracts company data using Google Search. 100% reliable, no cookies. | `Python` `LinkedIn` `B2B` |
-| **[B2B Email Extractor](https://apify.com/johandev_04/b2b-email-extractor)** | Extracts business emails from domains. Filters blocked sites. | `Python` `B2B` `Lead Gen` |
-| **[Email Validator API](https://apify.com/johandev_04/email-validator)** | Validates emails (syntax, MX, disposable). Cleans B2B databases. | `Python` `Email` `B2B` |
+| **[LinkedIn Company Scraper](https://apify.com/johandev_04/linkedin-company-scraper)** | Extracts company data using Google Search. 100% reliable, no cookies. | `Python` `B2B` `LinkedIn` |
+| **[B2B Email Extractor](https://apify.com/johandev_04/b2b-email-extractor)** | Extracts business emails from domains. Filters out blocked sites. | `Python` `B2B` `Lead Gen` |
+| **[Email Validator API](https://apify.com/johandev_04/email-validator)** | Validates emails with syntax checks, MX records, and disposable detection. | `Python` `Email` `B2B` |
 | **[Company Enrichment API](https://apify.com/johandev_04/company-enricher)** | Enriches domains with tech stack, descriptions, and social links. | `Python` `B2B` `Pipeline` |
 | **[Google Trends Scraper](https://apify.com/johandev_04/google-trends-scraper)** | Bypasses 429 limits with proxies and sessions. +99% success rate. | `Python` `Web Scraping` `API` |
 | **[YouTube Transcript Scraper](https://apify.com/johandev_04/youtube-transcript-scraper)** | Enterprise-grade extraction. Zero data loss, anti-ban proxies, and state persistence. | `Python` `NLP` `Data` |
 | **[E-commerce Price Monitor](https://apify.com/johandev_04/price-monitor)** | Monitors product prices from e-commerce stores. High success rate. | `Python` `E-commerce` `API` |
 | **[AI Content Detector](https://apify.com/johandev_04/ai-content-detector)** | Detects if text is Human or AI-generated. Enterprise-grade statistical analysis. | `Python` `AI` `NLP` |
 | **[URL to Markdown for AI Agents](https://apify.com/johandev_04/url-to-markdown-agent)** | Converts webpages to clean Markdown. Fail-safe errors for AI agents and RAG pipelines. | `Python` `AI` `RAG` |
-| **[Smart Data Extractor (No APIs)](https://apify.com/johandev_04/smart-data-extractor)** | Extracts structured data (titles, prices, emails, links) from any website using pure Python. | `Python` `No APIs` `Data` |
+| **[Smart Data Extractor (No APIs)](https://apify.com/johandev_04/smart-data-extractor)** | Extracts structured data (titles, prices, emails, links) from any website. | `Python` `No APIs` `Data` |
 | **[Web Metadata Extractor](https://apify.com/johandev_04/web-metadata-extractor)** | Extracts titles, descriptions, and Open Graph images from any webpage. Fast and no JavaScript required. | `Python` `SEO` `Data` |
-| **[Bluesky Scraper & API](https://apify.com/johandev_04/bluesky-scraper)** | Extracts posts, likes, and metadata from Bluesky profiles using the public AT Protocol API. No login required. | `Python` `Social Media` `API` |
+| **[Bluesky Scraper & API](https://apify.com/johandev_04/bluesky-scraper)** | Extracts posts, likes, and metadata from Bluesky profiles using the AT Protocol API. | `Python` `Social Media` `API` |
 
 ---
 
-### Technical Stack
+### 💻 Technical Stack
 
-- **Languages:** Python, C#, JavaScript
-- **Backend & Data:** FastAPI, PostgreSQL, Apify SDK, Playwright, BeautifulSoup
-- **Game Development:** Godot Engine (OOP, math logic, optimization)
+*   **Languages:** Python, C#, JavaScript
+*   **Backend & Data:** FastAPI, PostgreSQL, Apify SDK, Playwright, BeautifulSoup
+*   **Game Development:** Godot Engine (OOP, math logic, optimization)
 
 ---
 
-### Contact
+### 📫 Let's Connect
 
-- **Email:** [ortizdelgadojohanjose04@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com&su=Job%20Opportunity%20for%20Johan%20Ortiz)
-- **LinkedIn:** [johan-ortiz-dev](https://linkedin.com/in/johan-ortiz-dev)
-- **Portfolio:** [ortizdelgadojohanjose04-ai.github.io](https://ortizdelgadojohanjose04-ai.github.io)
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+*   **Email:** [ortizdelgadojohanjose04@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com&su=Job%20Opportunity%20for%20Johan%20Ortiz)
+*   **LinkedIn:** [johan-ortiz-dev](https://linkedin.com/in/johan-ortiz-dev)
+*   **Portfolio:** [ortizdelgadojohanjose04-ai.github.io](https://ortizdelgadojohanjose04-ai.github.io)
+*   **Apify Store:** [apify.com/johandev_04](https://apify.com/johandev_04)
