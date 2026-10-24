@@ -4,12 +4,7 @@
 
 I build production-ready software for data extraction, web scraping, and AI pipelines. My focus is on reliability, scalable architecture, and automated monetization.
 
-<p align="left">
-  <a href="https://apify.com/johandev_04" target="_blank"><img src="https://img.shields.io/badge/Apify_Store-00A9E0?style=for-the-badge&logo=apify&logoColor=white" alt="Apify"></a>
-  <a href="https://linkedin.com/in/johan-ortiz-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ortizdelgadojohanjose04-ai.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[🌐 Apify Store](https://apify.com/johandev_04) • [💼 LinkedIn](https://linkedin.com/in/johan-ortiz-dev) • [📁 Portfolio](https://ortizdelgadojohanjose04-ai.github.io) • [✉️ Email](https://mail.google.com/mail/?view=cm&fs=1&to=ortizdelgadojohanjose04@gmail.com)
 
 ---
 
